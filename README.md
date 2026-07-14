@@ -90,13 +90,9 @@ Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates i
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsaishankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Nikhil's GitHub Stats" />
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsaishankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Nikhil's GitHub Stats" />
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsaishankar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsaishankar&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
