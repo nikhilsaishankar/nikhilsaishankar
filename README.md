@@ -82,10 +82,10 @@ Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates i
 
 ## 🌱 Currently Exploring
 
+- Advanced Kubernetes & GitOps workflows
 - AWS Security & Networking
 - Infrastructure Automation & Cost Optimization
-- Kubernetes Autoscaling & Infrastructure at Scale
-- Observability & Reliability Engineering
+- AIOps
 
 ---
 
