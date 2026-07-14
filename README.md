@@ -138,12 +138,12 @@ Terraform → Amazon EKS → Jenkins CI → SonarQube Gate → Docker Build → 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhilsaishankar&show_icons=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&hide_border=true" alt="Nikhil's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsaishankar&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsaishankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Nikhil's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsaishankar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsaishankar&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsaishankar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
