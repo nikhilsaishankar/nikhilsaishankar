@@ -84,6 +84,7 @@ Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates i
 
 - AWS Security & Networking
 - Infrastructure Automation & Cost Optimization
+- Kubernetes Autoscaling & Infrastructure at Scale
 - Observability & Reliability Engineering
 
 ---
@@ -104,4 +105,4 @@ Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates i
 
 ---
 
-⭐ *Thank you for visiting my profile! Let's connect and build something reliable together.*
+⭐ Thank you for visiting my profile! Let's connect and build something reliable together.
