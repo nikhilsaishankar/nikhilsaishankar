@@ -69,52 +69,6 @@ Vulnerability Scanning • OWASP Security Practices • Blocking Quality Gates i
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 DevOps Engineer — GrayQuest, Mumbai *(Dec 2023 - Present)*
-- Designed multi-stage **CI/CD pipelines** in **Jenkins** (Declarative Pipelines) integrating **Maven** builds and **SonarQube** quality scans, reducing end-to-end deployment time by **40%**
-- Built reusable **Terraform** modules for AWS infrastructure, reducing manual provisioning effort and improving environment consistency
-- Containerized production services, published images to AWS **ECR**, and deployed them on **ECS**, cutting environment mismatch incidents by **60%**
-- Operated production workloads on **Kubernetes** with rolling updates and supported rollback procedures
-- Implemented **blue-green and canary deployments** for low-risk, near-zero-downtime releases
-- Configured **Prometheus** alerting and **Grafana** dashboards to surface production issues early
-
-### 🏢 Associate DevOps Engineer — Dignity Of Noble, Hyderabad *(Feb 2023 - Nov 2023)*
-- Provisioned and managed **AWS** infrastructure with **Terraform**, keeping every change trackable, auditable, and reversible
-- Implemented the organization's first **Jenkins CI/CD pipeline** with GitHub webhooks
-- Integrated **Trivy** vulnerability scanning and **OWASP** security practices into the pipeline
-- Supported early **Kubernetes** adoption with manifests and development-cluster deployments
-
-### 🏢 Junior DevOps Engineer — Careerlabs Technologies, Bangalore *(Dec 2021 - Jan 2023)*
-- Migrated legacy manual deployments to containerized runtimes with optimized Dockerfiles
-- Maintained and extended **Jenkins CI/CD** jobs and embedded automated verification into CI workflows
-- Administered **Git** repositories, branching strategies, and pull-request workflows
-
----
-
-## 🌟 Featured Project
-
-### 🩸 [PulseDeploy: GitOps-Driven Blood Donation Platform on AWS EKS](https://github.com/nikhilsaishankar/Kubernetes-e2e-php)
-
-> A complete **end-to-end delivery platform** — from infrastructure provisioning to GitOps-reconciled production workloads.
-
-**🔁 The E2E flow:**
-
-```
-Terraform → Amazon EKS → Jenkins CI → SonarQube Gate → Docker Build → Trivy Scan → Docker Hub → Argo CD → Kubernetes
-  (IaC)     (cluster +    (7-stage     (blocking        (app + db      (security     (registry)   (GitOps     (HPA, PDB,
-             EBS CSI)      pipeline)    quality gate)    images)        gate)                       sync)       StatefulSet)
-```
-
-- 🏗️ **Infrastructure as Code**: EKS cluster, managed node group, and EBS CSI storage driver provisioned entirely through **Terraform**
-- 🔄 **CI pipeline**: seven **Jenkins** stages — checkout, **SonarQube** analysis, blocking quality gate, **Docker** image builds, **Trivy** vulnerability scans, registry push
-- 🚀 **GitOps CD**: **Argo CD** continuously syncs the cluster to Git with automated drift self-healing — Git is the single source of truth
-- ☸️ **Production-grade Kubernetes**: HPA autoscaling, PodDisruptionBudgets, MySQL **StatefulSet** with dynamic EBS persistence, NGINX **Ingress** behind an AWS ELB, and least-privilege **NetworkPolicy** isolation
-
-`AWS EKS` `Terraform` `Jenkins` `Argo CD` `Kubernetes` `Docker` `SonarQube` `Trivy`
-
----
-
 ## 📈 Key Achievements
 
 - ⚡ Reduced end-to-end deployment time by **40%** with multi-stage Jenkins CI/CD pipelines
@@ -128,10 +82,9 @@ Terraform → Amazon EKS → Jenkins CI → SonarQube Gate → Docker Build → 
 
 ## 🌱 Currently Exploring
 
-- Advanced Kubernetes and GitOps workflows
-- Cloud security and vulnerability management
-- Observability and reliability engineering
-- Infrastructure automation at scale
+- AWS Security & Networking
+- Infrastructure Automation & Cost Optimization
+- Observability & Reliability Engineering
 
 ---
 
